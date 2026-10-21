@@ -5,3 +5,4 @@ build*/
 *.pro.user*
 *dll
 *qm
+bin/cli-build/
